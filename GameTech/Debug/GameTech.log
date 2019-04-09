@@ -1,0 +1,14 @@
+﻿  GolfGame.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp: note: see previous definition of '_WINSOCKAPI_'
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(399): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(403): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(666): warning C4018: '<': signed/unsigned mismatch
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(690): warning C4018: '<': signed/unsigned mismatch
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(699): warning C4018: '<': signed/unsigned mismatch
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(700): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(965): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(1003): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(1005): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  GameTech.vcxproj -> C:\Users\Ed\Desktop\CSC8503 Coursework\CSC8503\CSC8503\Win32\Debug\GameTech.exe

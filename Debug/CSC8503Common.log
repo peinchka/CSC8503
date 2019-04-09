@@ -1,0 +1,9 @@
+﻿  NavigationGrid.cpp
+h:\desktop\csc8503\csc8503\csc8503common\navigationgrid.cpp(39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+h:\desktop\csc8503\csc8503\csc8503common\navigationgrid.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\desktop\csc8503\csc8503\csc8503common\navigationgrid.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\desktop\csc8503\csc8503\csc8503common\navigationgrid.cpp(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+h:\desktop\csc8503\csc8503\csc8503common\navigationgrid.cpp(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+StateTransition.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+QuadTree.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  CSC8503Common.vcxproj -> H:\Desktop\CSC8503\Win32\Debug\CSC8503Common.lib

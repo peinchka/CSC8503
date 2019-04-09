@@ -1,0 +1,33 @@
+﻿  GameTechRenderer.cpp
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(42): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\gametechrenderer.cpp: note: see previous definition of '_WINSOCKAPI_'
+  GolfGame.cpp
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(42): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp: note: see previous definition of '_WINSOCKAPI_'
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(399): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(403): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(700): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(965): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(1003): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\golfgame.cpp(1005): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\main.cpp: note: see previous definition of '_WINSOCKAPI_'
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(42): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  NetworkedGame.cpp
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(42): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\networkedgame.cpp: note: see previous definition of '_WINSOCKAPI_'
+  NetworkPlayer.cpp
+c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(17): warning C4005: '_WINSOCKAPI_': macro redefinition
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\gametech\networkplayer.cpp: note: see previous definition of '_WINSOCKAPI_'
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(38): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\common\meshgeometry.h(42): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'CSC8503Common.lib'

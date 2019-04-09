@@ -1,0 +1,36 @@
+﻿  CollisionDetection.cpp
+  Debug.cpp
+  GameClient.cpp
+  GameObject.cpp
+  GameServer.cpp
+  GameWorld.cpp
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\gameworld.cpp(32): warning C4150: deletion of pointer to incomplete type 'NCL::CSC8503::Constraint'; no destructor called
+  c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\gameworld.h(11): note: see declaration of 'NCL::CSC8503::Constraint'
+  GJKAlgorithm.cpp
+  NavigationGrid.cpp
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\navigationgrid.cpp(41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\navigationgrid.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\navigationgrid.cpp(83): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\navigationgrid.cpp(85): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ed\desktop\csc8503 coursework\csc8503\csc8503\csc8503\csc8503common\navigationgrid.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  NavigationMesh.cpp
+  NetworkBase.cpp
+  NetworkObject.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  Simplex.cpp
+  State.cpp
+  Generating Code...
+  Compiling...
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+StateTransition.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+QuadTree.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  CSC8503Common.vcxproj -> C:\Users\Ed\Desktop\CSC8503 Coursework\CSC8503\CSC8503\Win32\Debug\CSC8503Common.lib
